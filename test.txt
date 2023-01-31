@@ -10,4 +10,5 @@ hello world! master test
 hello world! hot-fix2 test
 add
 server add test
-ssh test
+ssh pull test
+ssh push test
