@@ -9,3 +9,4 @@ hello world!
 hello world! master test
 hello world! hot-fix2 test
 add
+server add test
